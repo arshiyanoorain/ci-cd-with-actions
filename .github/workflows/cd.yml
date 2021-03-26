@@ -9,7 +9,7 @@ on:
     - releases/*
 
 env:
-  owner: kanchanve
+  owner: arshiyanoorain
   domain: github.io
 
 jobs:
